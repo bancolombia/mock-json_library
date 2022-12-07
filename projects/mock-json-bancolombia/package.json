@@ -1,13 +1,12 @@
 {
-  "name": "mock-json-bancolombia",
-  "version": "0.0.6",
+  "name": "mock-json-bancolombia-angular",
+  "version": "0.0.8",
   "author": "Andrés Augusto Cristancho Lora",
   "peerDependencies": {
     "@angular/common": "^14.1.0",
     "@angular/core": "^14.1.0"
   },
   "dependencies": {
-    "mock-json-bancolombia": "^0.0.5",
     "tslib": "^2.3.0"
   }
 }
